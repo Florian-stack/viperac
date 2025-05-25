@@ -1,7 +1,7 @@
-   {
-       "Kackalizens": {
-           "cfx_key": "cfxk_wLPlpWGl9Fz3baCL0H7L_2VWmP3",
-           "ip_address": "87.106.77.95",
-           "blacklisted": false
-       }
-   }
+{
+    "Kackalizens": {
+        "cfx_key": "cfxk_wLPlpWGl9Fz3baCL0H7L_2VWmP3",
+        "ip_address": "auto",
+        "blacklisted": false
+    }
+}
